@@ -4,22 +4,7 @@
 **フォンドン大学 ソフトウェアエンジニアリング専攻** | GPA: 3.75 | JLPT N3 Holder 🇯🇵
 Hanoi, Vietnam 🇻🇳 → 日本でエンジニアになるのが夢です。
 
-<p align="center">
-  <a href="https://github.com/Sors18?tab=repositories&sort=stargazers">
-    <img alt="Total Stars" title="Tổng số stars nhận được"
-         src="https://img.shields.io/github/stars/Sors18?style=for-the-badge&color=84cc16&labelColor=3b820c&logo=star&logoColor=white&label=STARS" />
-  </a>
 
-  <a href="https://github.com/Sors18?tab=followers">
-    <img alt="Followers" title="Follow mình trên GitHub"
-         src="https://img.shields.io/github/followers/Sors18?style=for-the-badge&color=0ea5e9&labelColor=0369a1&logo=github&logoColor=white&label=FOLLOWERS" />
-  </a>
-
-<a href="https://github.com/Sors18/Sors18">
-  <img alt="Profile Views" title="Số lượt xem profile"
-       src="https://komarev.com/ghpvc/?username=Sors18&color=8B46FF&style=for-the-badge&label=VISITORS&labelColor=FFFFFF&logo=eye&logoColor=white" />
-</a>
-</p>
 
 #### 簡単に自己紹介
 - 🎓 **学歴**: フォンドン大学 (Phuong Dong University) 3年生。
@@ -29,44 +14,20 @@ Hanoi, Vietnam 🇻🇳 → 日本でエンジニアになるのが夢です。
     - 大学のITコンテスト「Devrank」運営・問題作成 (2年連続)
 - 💼 **経験**: Deha社での3ヶ月インターンシップ (Backend .NET) を経験しました。「報連相」などのコミュニケーションスキルも学びました。
 - ❤️ **趣味**: 子供の頃から日本の文化（アニメ、桜など）や歴史（三国志）が好きです。
-- 💬 DotNet/Java/Pythonについて語り合いましょう！
+- 💬 DotNet/Java/PHPについて語り合いましょう！
 - 👯 日本のIT企業で長期的に働きたいです！
 
 <details open>
   <summary><h2>📘My Top Projects</h2></summary>
    <p align="left">
-    <a href="https://github.com/Sors18/Cakeshopfrontend">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sors18&repo=Cakeshopfrontend&theme=tokyonight&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Project 1"/>
+    <a href="https://github.com/Sors18/Banhtrang">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sors18&repo=Banhtrang&theme=tokyonight&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Project 1"/>
         </a>
-    <a href="https://github.com/Sors18/Cakeshopbackend">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sors18&repo=Cakeshopbackend&theme=tokyonight&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Project 2"/>
-    </a>
-    <a href="https://github.com/Sors18/NCKH">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sors18&repo=NCKH&theme=tokyonight&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="NCKH"/>
+    <a href="[https://github.com/Sors18/Banh-trang-ver-2](https://github.com/Sors18/Banh-Trang-Ver-2.0)">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sors18&repo=Banh-Trang-Ver-2.0&theme=tokyonight&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Project 2"/>
     </a>
    </p>
    </details>
-
-<details open>
-<summary><h2>📊 統計・活動状況</h2></summary>
-<h3>🔥 Streak Stats</h3>
-<div align="center">
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=Sors18&theme=tokyonight&hide_border=true" height="195" alt="Streak Stats"/>
-</div>
-
-<h3>💻 GitHub プロファイル統計</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sors18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" height="192px" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sors18&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E" height="192px" alt="Top Languages"/>
-</p>
-
-<h3>🐍 Contribution Snake</h3>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Sors18/Sors18/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-<h3>📈 最近の活動グラフ</h3>
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sors18&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Activity Graph"/> </p> </details>
 
 <details open >
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
@@ -80,7 +41,6 @@ Hanoi, Vietnam 🇻🇳 → 日本でエンジニアになるのが夢です。
       <a href="https://github.com/search?q=user%3ASors18+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ASors18+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
       <a href="https://github.com/search?q=user%3ASors18+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ASors18+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ASors18+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
   </p>
 
