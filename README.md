@@ -1,7 +1,8 @@
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6%EF%BC%81%E3%83%AC%E3%83%BB%E3%83%90%E3%82%AA%E3%83%BB%E3%83%95%E3%83%83%E3%82%AF%E3%81%A7%E3%81%99;Software+Engineer+%E2%80%A2+%E3%83%95%E3%82%A9%E3%83%B3%E3%83%89%E3%83%B3%E5%A4%A7%E5%AD%A6;%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD%E3%81%A7%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E2%86%92%E6%AD%A3%E7%A4%BE%E5%93%A1%E5%B8%8C%E6%9C%9B;Hanoi%2C+Vietnam+%F0%9F%87%BB%EF%B8%8F+%E2%86%92+%E6%97%A5%E6%9C%AC%F0%9F%87%AF%EF%B8%8F" alt="Typing SVG" />
-
+</div>
 ### 👋 はじめまして、レ・バオ・フック (Le Bao Phuc) です
-**フォンドン大学 ソフトウェアエンジニアリング専攻** | GPA: 3.75 | JLPT N3 Holder 🇯🇵
+**フオンドン大学 システムエンジニア育成プログラム(日本語特化)** | GPA: 3.74 | JLPT N3 🇯🇵
 Hanoi, Vietnam 🇻🇳 → 日本でエンジニアになるのが夢です。
 
 
@@ -9,7 +10,7 @@ Hanoi, Vietnam 🇻🇳 → 日本でエンジニアになるのが夢です。
 #### 簡単に自己紹介
 - 🎓 **学歴**: フォンドン大学 (Phuong Dong University) 3年生。
 - 🏆 **実績**:
-    - GPA: 3.75 (成績優秀奨学金 受賞)
+    - GPA: 3.74 (成績優秀奨学金 受賞)
     - 日本語能力試験 N3 合格
     - 大学のITコンテスト「Devrank」運営・問題作成 (2年連続)
 - 💼 **経験**: Deha社での3ヶ月インターンシップ (Backend .NET) を経験しました。「報連相」などのコミュニケーションスキルも学びました。
@@ -67,7 +68,11 @@ Hanoi, Vietnam 🇻🇳 → 日本でエンジニアになるのが夢です。
 
 <details open>
   <summary><h2>🏷️ Credly Badges</h2></summary>
-  <p><a href="#"><img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/95a5cb4c-f631-4478-a85d-f86fbfb0b6de" /></a></p>
+  <p align="center">
+    <a href="https://www.credly.com/users/m-c-dung" target="_blank">
+      <img src="https://github.com/user-attachments/assets/2891afb0-84ce-420c-80c6-d9f8f1038cbc" alt="My Credly Badges" width="100%" />
+    </a>
+  </p>
 </details>
 
 ### 💡 Recent Activity
@@ -81,5 +86,5 @@ Hanoi, Vietnam 🇻🇳 → 日本でエンジニアになるのが夢です。
 > ぜひお気軽にご連絡ください。よろしくお願いいたします。
 
 <div align="center">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="280"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 </div>
