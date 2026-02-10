@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6%EF%BC%81%E3%83%AC%E3%83%BB%E3%83%90%E3%82%AA%E3%83%BB%E3%83%95%E3%83%83%E3%82%AF%E3%81%A7%E3%81%99;Software+Engineer+%E2%80%A2+%E3%83%95%E3%82%A9%E3%83%B3%E3%83%89%E3%83%B3%E5%A4%A7%E5%AD%A6;%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD%E3%81%A7%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E2%86%92%E6%AD%A3%E7%A4%BE%E5%93%A1%E5%B8%8C%E6%9C%9B;Hanoi%2C+Vietnam+%F0%9F%87%BB%EF%B8%8F+%E2%86%92+%E6%97%A5%E6%9C%AC%F0%9F%87%AF%EF%B8%8F" alt="Typing SVG" />
 </div>
 ### 👋 はじめまして、レ・バオ・フック (Le Bao Phuc) です
-**フオンドン大学 システムエンジニア育成プログラム(日本語特化)** | GPA: 3.74 | JLPT N3 🇯🇵
+**フオンドン大学 システムエンジニア育成プログラム(日本語特化)3年生** | GPA: 3.74 | JLPT N3 🇯🇵
 Hanoi, Vietnam 🇻🇳 → 日本でエンジニアになるのが夢です。
 
 
