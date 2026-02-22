@@ -40,8 +40,8 @@
     <a href="https://github.com/Sors18/Banhtrang">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sors18&repo=Banhtrang&theme=tokyonight&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Project 1"/>
         </a>
-    <a href="[https://github.com/Sors18/Banh-trang-ver-2](https://github.com/Sors18/Banh-Trang-Ver-2.0)">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sors18&repo=Banh-Trang-Ver-2.0&theme=tokyonight&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Project 2"/>
+    <a href="https://github.com/Sors18/Banh-Trang-Ver-2.0">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sors18&repo=Banh-Trang-Ver-2.0&theme=tokyonight&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Banh-Trang-Ver-2.0"/>
     </a>
    </p>
    </details>
