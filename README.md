@@ -38,10 +38,10 @@
   <summary><h2>📘 My Top Projects</h2></summary>
   <p align="left">
     <a href="https://github.com/Sors18/Banhtrang">
-      <img width="380" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sors18&repo=Banhtrang&theme=tokyonight&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&v=1" alt="Banhtrang"/>
+      <img width="380" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sors18&repo=Banhtrang&theme=tokyonight&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&v=2" alt="Banhtrang"/>
     </a>
     <a href="https://github.com/Sors18/Banh-Trang-Ver-2.0">
-      <img width="380" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sors18&repo=Banh-Trang-Ver-2.0&theme=tokyonight&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&v=1" alt="Banh-Trang-Ver-2.0"/>
+      <img width="380" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sors18&repo=Banh-Trang-Ver-2.0&theme=tokyonight&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&v=2" alt="Banh-Trang-Ver-2.0"/>
     </a>
   </p>
 </details>
