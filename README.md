@@ -4,34 +4,34 @@
 
 <br>
 
-<table style="border: none; border-collapse: collapse; width: 100%;">
-  <tr style="border: none;">
-    <td valign="top" width="220" style="border: none; padding-right: 20px;">
-      <img src="https://github.com/user-attachments/assets/195c70c5-aae6-4475-bab5-7130ecb7b4ac" alt="Le Bao Phuc" width="220" style="border-radius: 15px;" />
-    </td>
-    <td valign="top" style="border: none;">
-      <h3 style="margin-top: 0;">👋 はじめまして、レ・バオ・フック (Le Bao Phuc) です</h3>
-      <b>フオンドン大学 システムエンジニア育成プログラム(日本語特化)3年生</b> | GPA: 3.74 | JLPT N3 🇯🇵<br>
-      Hanoi, Vietnam 🇻🇳 → 日本でエンジニアになるのが夢です。<br><br>
-      <h4>簡単に自己紹介</h4>
-      <ul>
-        <li>🎓 <b>学歴</b>: フォンドン大学 (Phuong Dong University) 3年生。</li>
-        <li>🏆 <b>実績</b>:
-          <ul>
-            <li>GPA: 3.74 (成績優秀奨学金 受賞)</li>
-            <li>日本語能力試験 N3 合格</li>
-            <li>大学のITコンテスト「Devrank」運営・問題作成 (2年連続)</li>
-          </ul>
-        </li>
-        <li>💼 <b>経験</b>: Deha社での3ヶ月インターンシップ (Backend .NET) を経験しました。「報連相」などのコミュニケーションスキルも学びました。</li>
-        <li>❤️ <b>趣味</b>: 子供の頃から日本の文化（アニメ、桜など）や歴史（三国志）が好きです。</li>
-        <li>💬 DotNet/Java/PHPについて語り合いましょう！</li>
-        <li>👯 日本のIT企業で長期的に働きたいです！</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div>
+  <img align="left" src="https://github.com/user-attachments/assets/195c70c5-aae6-4475-bab5-7130ecb7b4ac" alt="Le Bao Phuc" width="220" style="border-radius: 15px;" hspace="20" />
 
+  <h3 style="margin-top: 0; margin-bottom: 5px;">👋 はじめまして、レ・バオ・フック (Le Bao Phuc) です</h3>
+  
+  <p style="margin: 0;">
+    <b>フオンドン大学 システムエンジニア育成プログラム(日本語特化)3年生</b> | GPA: 3.74 | <br><span style="white-space: nowrap;">JLPT N3 🇯🇵</span><br>
+    Hanoi, Vietnam 🇻🇳 → 日本でエンジニアになるのが夢です。
+  </p>
+
+  <h4 style="margin-top: 15px; margin-bottom: 5px;">簡単に自己紹介</h4>
+  <ul style="margin-top: 0;">
+    <li>🎓 <b>学歴</b>: フォンドン大学 (Phuong Dong University) 3年生。</li>
+    <li>🏆 <b>実績</b>:
+      <ul>
+        <li>GPA: 3.74 (成績優秀奨学金 受賞)</li>
+        <li>日本語能力試験 N3 合格</li>
+        <li>大学のITコンテスト「Devrank」運営・問題作成 (2年連続)</li>
+      </ul>
+    </li>
+    <li>💼 <b>経験</b>: Deha社での3ヶ月インターンシップ (Backend .NET) を経験しました。</li>
+    <li>❤️ <b>趣味</b>: 子供の頃から日本の文化（アニメ、桜など）や歴史（三国志）が好きです。</li>
+    <li>💬 DotNet/Java/PHPについて語り合いましょう！</li>
+    <div style=" margin-left: 220"><li>👯 日本のIT企業で長期的に働きたいです！</li></div>
+  </ul>
+</div>
+
+<br clear="all" />
 <br>
 
 <details open>
