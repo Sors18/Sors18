@@ -16,7 +16,7 @@
 
   <h4 style="margin-top: 15px; margin-bottom: 5px;">簡単に自己紹介</h4>
   <ul style="margin-top: 0;">
-    <li>🎓 <b>学歴</b>: フォンドン大学 (Phuong Dong University) 3年生。</li>
+    <li>🎓 <b>学歴</b>: フォンドン大学 (Phuong Dong University) 4年生。</li>
     <li>🏆 <b>実績</b>:
       <ul>
         <li>GPA: 3.75 (成績優秀奨学金 受賞) / 日本語能力試験 N3 合格</li>
