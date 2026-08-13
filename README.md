@@ -41,18 +41,18 @@
 
 <details open>
   <summary><h2>📘 My Top Projects</h2></summary>
-  <p align="left">
+  <p align="center">
     <a href="https://github.com/Sors18/Banhtrang">
-      <img width="380" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sors18&repo=Banhtrang&theme=tokyonight&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&v=4" alt="Banhtrang"/>
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sors18&repo=Banhtrang&theme=tokyonight&bg_color=1F222E&hide_border=true" width="380" hspace="2" vspace="2"/>
     </a>
     <a href="https://github.com/Sors18/Banh-Trang-Ver-2.0">
-      <img width="380" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sors18&repo=Banh-Trang-Ver-2.0&theme=tokyonight&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&v=4" alt="Banh-Trang-Ver-2.0"/>
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sors18&repo=Banh-Trang-Ver-2.0&theme=tokyonight&bg_color=1F222E&hide_border=true" width="380" hspace="2" vspace="2"/>
     </a>
     <a href="https://github.com/hideonbush-t1/FE-project_bds">
-      <img width="380" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hideonbush-t1&repo=FE-project_bds&theme=tokyonight&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&v=4" alt="FE-project_bds"/>
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hideonbush-t1&repo=FE-project_bds&theme=tokyonight&bg_color=1F222E&hide_border=true" width="380" hspace="2" vspace="2"/>
     </a>
     <a href="https://github.com/hideonbush-t1/BE-project_bds">
-      <img width="380" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hideonbush-t1&repo=BE-project_bds&theme=tokyonight&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&v=4" alt="BE-project_bds"/>
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hideonbush-t1&repo=BE-project_bds&theme=tokyonight&bg_color=1F222E&hide_border=true" width="380" hspace="2" vspace="2"/>
     </a>
   </p>
 </details>
@@ -97,7 +97,6 @@
       <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"></a>
   </p>
 </details>
-
 
 ### 💡 Recent Activity
 - 🎓 **学習**: 日本語 N2 勉強中 / 新しい技術（Next.js, TypeScriptなど）に挑戦中
